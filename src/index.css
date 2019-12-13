@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.box {
+  border: 2px solid black;
+}
+
+.header {
+  background-image: url("images/simpsons-bg-header.png");
+  background-size: contain;
+  height: 200px;
+}
+
+.footer {
+  height: 200px;
+  background-color: #56BEEF;
+}
+
+.title {
+  width: 350px;
+}
+
+.card-profiles {
+  color: #f9f9f9;
+  background-color: #292b2c;
+  height: 120px;
+}
+
+.card-img {
+  height: 120px;
+  width: auto;
+}
+
+.img-sidebar {
+  width: auto;
+  height: 255px;
+  object-fit: cover;
+  object-position: right;
+}
