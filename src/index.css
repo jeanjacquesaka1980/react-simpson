@@ -48,3 +48,21 @@ code {
   object-fit: cover;
   object-position: right;
 }
+
+.button-container {
+  text-align: center;
+}
+
+.btn {
+  width: 300px;
+  height: 100px;
+  background-color: #FCDF39;
+  border-radius: 50px;
+  transition: 0.3s ease-in-out;
+}
+
+.btn:hover {
+  background-color: #56BEEF;
+  transition: 0.3s ease-in-out;
+}
+
